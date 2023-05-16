@@ -1,0 +1,28 @@
+.container {
+    width: 1000px;
+    margin: 0 auto;
+    padding: 50px;
+  }
+  
+  .image {
+    width: 170px;
+  }
+  
+  .image img {
+    width: 150px;
+    border-radius: 35%;
+  }
+  
+  table {
+    width: 100%;
+  }
+  
+  .hobbies div {
+    margin-bottom: 10px;
+  }
+  
+  .social div {
+    margin-bottom: 10px;
+  }
+
+  
